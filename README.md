@@ -9,3 +9,7 @@ Make sure you have the following requirements:
 
 ## Build
 Run `pip install -r envdjangogirls/requirements.txt`
+
+## Run
+To run locally on 127.0.0.1:
+  `python manage.py runserver`
