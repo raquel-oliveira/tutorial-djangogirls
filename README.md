@@ -1,6 +1,6 @@
 # Django Girls Tutorial!
 
-Creation of the blog following the: /tutorial.djangogirls.org
+Creation of the blog following the [Django Girls Tutorial](https://tutorial.djangogirls.org/)
 
 Check it out [my blog](http://hackel.pythonanywhere.com)
 
